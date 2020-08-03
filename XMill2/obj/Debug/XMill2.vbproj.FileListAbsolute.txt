@@ -1,0 +1,147 @@
+C:\Users\bminic.ITHQ\source\repos\XMill2\XMill2\bin\Debug\XMill2.exe
+C:\Users\bminic.ITHQ\source\repos\XMill2\XMill2\bin\Debug\XMill2.pdb
+C:\Users\bminic.ITHQ\source\repos\XMill2\XMill2\obj\Debug\XMill2.Resources.resources
+C:\Users\bminic.ITHQ\source\repos\XMill2\XMill2\obj\Debug\XMill2.vbproj.GenerateResource.cache
+C:\Users\bminic.ITHQ\source\repos\XMill2\XMill2\obj\Debug\XMill2.vbproj.CoreCompileInputs.cache
+C:\Users\bminic.ITHQ\source\repos\XMill2\XMill2\obj\Debug\XMill2.exe
+C:\Users\bminic.ITHQ\source\repos\XMill2\XMill2\obj\Debug\XMill2.pdb
+C:\Users\bminic.ITHQ\source\repos\XMill2\XMill2\bin\Debug\conn_config.xml
+C:\Users\bminic.ITHQ\source\repos\XMill2\XMill2\obj\Debug\XMill2.XMill.resources
+C:\Users\bminic.ITHQ\source\repos\XMill2\XMill2\bin\Debug\XMill2.exe.config
+C:\Users\bminic.ITHQ\source\repos\XMill2\XMill2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\bminic.ITHQ\source\repos\XMill2\XMill2\obj\Debug\XMill2.vbproj.CopyComplete
+C:\Users\bminic.ITHQ\source\repos\XMill2\XMill2\obj\Debug\XMill2.vbprojAssemblyReference.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP Project\July\07.21.2020\XMill2\XMill2\bin\Debug\conn_config.xml
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP Project\July\07.21.2020\XMill2\XMill2\bin\Debug\XMill2.exe.config
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP Project\July\07.21.2020\XMill2\XMill2\bin\Debug\XMill2.exe
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP Project\July\07.21.2020\XMill2\XMill2\bin\Debug\XMill2.pdb
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP Project\July\07.21.2020\XMill2\XMill2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP Project\July\07.21.2020\XMill2\XMill2\obj\Debug\XMill2.vbprojAssemblyReference.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP Project\July\07.21.2020\XMill2\XMill2\obj\Debug\XMill2.XMill.resources
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP Project\July\07.21.2020\XMill2\XMill2\obj\Debug\XMill2.Resources.resources
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP Project\July\07.21.2020\XMill2\XMill2\obj\Debug\XMill2.vbproj.GenerateResource.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP Project\July\07.21.2020\XMill2\XMill2\obj\Debug\XMill2.vbproj.CoreCompileInputs.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP Project\July\07.21.2020\XMill2\XMill2\obj\Debug\XMill2.vbproj.CopyComplete
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP Project\July\07.21.2020\XMill2\XMill2\obj\Debug\XMill2.exe
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP Project\July\07.21.2020\XMill2\XMill2\obj\Debug\XMill2.pdb
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP Project\July\CodeAdjustment\XMill2\XMill2\bin\Debug\conn_config.xml
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP Project\July\CodeAdjustment\XMill2\XMill2\bin\Debug\XMill2.exe.config
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP Project\July\CodeAdjustment\XMill2\XMill2\bin\Debug\XMill2.exe
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP Project\July\CodeAdjustment\XMill2\XMill2\bin\Debug\XMill2.pdb
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP Project\July\CodeAdjustment\XMill2\XMill2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP Project\July\CodeAdjustment\XMill2\XMill2\obj\Debug\XMill2.vbprojAssemblyReference.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP Project\July\CodeAdjustment\XMill2\XMill2\obj\Debug\XMill2.XMill.resources
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP Project\July\CodeAdjustment\XMill2\XMill2\obj\Debug\XMill2.Resources.resources
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP Project\July\CodeAdjustment\XMill2\XMill2\obj\Debug\XMill2.vbproj.GenerateResource.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP Project\July\CodeAdjustment\XMill2\XMill2\obj\Debug\XMill2.vbproj.CoreCompileInputs.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP Project\July\CodeAdjustment\XMill2\XMill2\obj\Debug\XMill2.vbproj.CopyComplete
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP Project\July\CodeAdjustment\XMill2\XMill2\obj\Debug\XMill2.exe
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP Project\July\CodeAdjustment\XMill2\XMill2\obj\Debug\XMill2.pdb
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CodeAdjustment\XMill2\XMill2\bin\Debug\conn_config.xml
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CodeAdjustment\XMill2\XMill2\bin\Debug\XMill2.exe.config
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CodeAdjustment\XMill2\XMill2\bin\Debug\XMill2.exe
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CodeAdjustment\XMill2\XMill2\bin\Debug\XMill2.pdb
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CodeAdjustment\XMill2\XMill2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CodeAdjustment\XMill2\XMill2\obj\Debug\XMill2.vbprojAssemblyReference.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CodeAdjustment\XMill2\XMill2\obj\Debug\XMill2.XMill.resources
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CodeAdjustment\XMill2\XMill2\obj\Debug\XMill2.Resources.resources
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CodeAdjustment\XMill2\XMill2\obj\Debug\XMill2.vbproj.GenerateResource.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CodeAdjustment\XMill2\XMill2\obj\Debug\XMill2.vbproj.CoreCompileInputs.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CodeAdjustment\XMill2\XMill2\obj\Debug\XMill2.vbproj.CopyComplete
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CodeAdjustment\XMill2\XMill2\obj\Debug\XMill2.exe
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CodeAdjustment\XMill2\XMill2\obj\Debug\XMill2.pdb
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CO3_Renewals\XMill2\XMill2\bin\Debug\conn_config.xml
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CO3_Renewals\XMill2\XMill2\bin\Debug\XMill2.exe.config
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CO3_Renewals\XMill2\XMill2\bin\Debug\XMill2.exe
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CO3_Renewals\XMill2\XMill2\bin\Debug\XMill2.pdb
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CO3_Renewals\XMill2\XMill2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CO3_Renewals\XMill2\XMill2\obj\Debug\XMill2.vbprojAssemblyReference.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CO3_Renewals\XMill2\XMill2\obj\Debug\XMill2.XMill.resources
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CO3_Renewals\XMill2\XMill2\obj\Debug\XMill2.Resources.resources
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CO3_Renewals\XMill2\XMill2\obj\Debug\XMill2.vbproj.GenerateResource.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CO3_Renewals\XMill2\XMill2\obj\Debug\XMill2.vbproj.CoreCompileInputs.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CO3_Renewals\XMill2\XMill2\obj\Debug\XMill2.vbproj.CopyComplete
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CO3_Renewals\XMill2\XMill2\obj\Debug\XMill2.exe
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CO3_Renewals\XMill2\XMill2\obj\Debug\XMill2.pdb
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CO3_Renewals\XMill2 - Version2\XMill2\bin\Debug\conn_config.xml
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CO3_Renewals\XMill2 - Version2\XMill2\bin\Debug\XMill2.exe.config
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CO3_Renewals\XMill2 - Version2\XMill2\bin\Debug\XMill2.exe
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CO3_Renewals\XMill2 - Version2\XMill2\bin\Debug\XMill2.pdb
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CO3_Renewals\XMill2 - Version2\XMill2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CO3_Renewals\XMill2 - Version2\XMill2\obj\Debug\XMill2.vbprojAssemblyReference.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CO3_Renewals\XMill2 - Version2\XMill2\obj\Debug\XMill2.XMill.resources
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CO3_Renewals\XMill2 - Version2\XMill2\obj\Debug\XMill2.Resources.resources
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CO3_Renewals\XMill2 - Version2\XMill2\obj\Debug\XMill2.vbproj.GenerateResource.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CO3_Renewals\XMill2 - Version2\XMill2\obj\Debug\XMill2.vbproj.CoreCompileInputs.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CO3_Renewals\XMill2 - Version2\XMill2\obj\Debug\XMill2.vbproj.CopyComplete
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CO3_Renewals\XMill2 - Version2\XMill2\obj\Debug\XMill2.exe
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CO3_Renewals\XMill2 - Version2\XMill2\obj\Debug\XMill2.pdb
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version2\XMill2\bin\Debug\conn_config.xml
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version2\XMill2\bin\Debug\XMill2.exe.config
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version2\XMill2\bin\Debug\XMill2.exe
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version2\XMill2\bin\Debug\XMill2.pdb
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version2\XMill2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version2\XMill2\obj\Debug\XMill2.vbprojAssemblyReference.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version2\XMill2\obj\Debug\XMill2.XMill.resources
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version2\XMill2\obj\Debug\XMill2.Resources.resources
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version2\XMill2\obj\Debug\XMill2.vbproj.GenerateResource.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version2\XMill2\obj\Debug\XMill2.vbproj.CoreCompileInputs.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version2\XMill2\obj\Debug\XMill2.vbproj.CopyComplete
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version2\XMill2\obj\Debug\XMill2.exe
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version2\XMill2\obj\Debug\XMill2.pdb
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 - Remove Printing - Change Port to 1975\XMill2\bin\Debug\conn_config.xml
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 - Remove Printing - Change Port to 1975\XMill2\bin\Debug\XMill2.exe.config
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 - Remove Printing - Change Port to 1975\XMill2\bin\Debug\XMill2.exe
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 - Remove Printing - Change Port to 1975\XMill2\bin\Debug\XMill2.pdb
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 - Remove Printing - Change Port to 1975\XMill2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 - Remove Printing - Change Port to 1975\XMill2\obj\Debug\XMill2.vbprojAssemblyReference.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 - Remove Printing - Change Port to 1975\XMill2\obj\Debug\XMill2.XMill.resources
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 - Remove Printing - Change Port to 1975\XMill2\obj\Debug\XMill2.Resources.resources
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 - Remove Printing - Change Port to 1975\XMill2\obj\Debug\XMill2.vbproj.GenerateResource.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 - Remove Printing - Change Port to 1975\XMill2\obj\Debug\XMill2.vbproj.CoreCompileInputs.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 - Remove Printing - Change Port to 1975\XMill2\obj\Debug\XMill2.vbproj.CopyComplete
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 - Remove Printing - Change Port to 1975\XMill2\obj\Debug\XMill2.exe
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 - Remove Printing - Change Port to 1975\XMill2\obj\Debug\XMill2.pdb
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 - Remove Printing - Change Port to 1975\XMill2\bin\Debug\Oracle.DataAccess.dll
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\bin\Debug\conn_config.xml
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\bin\Debug\XMill2.exe.config
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\bin\Debug\XMill2.exe
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\bin\Debug\XMill2.pdb
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\bin\Debug\Oracle.DataAccess.dll
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\obj\Debug\XMill2.vbprojAssemblyReference.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\obj\Debug\XMill2.XMill.resources
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\obj\Debug\XMill2.Resources.resources
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\obj\Debug\XMill2.vbproj.GenerateResource.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\obj\Debug\XMill2.vbproj.CoreCompileInputs.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\obj\Debug\XMill2.vbproj.CopyComplete
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\obj\Debug\XMill2.exe
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.24.2020\CO3_Renewals\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\obj\Debug\XMill2.pdb
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.27.2020\try to fix issue\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\bin\Debug\conn_config.xml
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.27.2020\try to fix issue\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\bin\Debug\XMill2.exe.config
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.27.2020\try to fix issue\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\bin\Debug\XMill2.exe
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.27.2020\try to fix issue\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\bin\Debug\XMill2.pdb
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.27.2020\try to fix issue\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\bin\Debug\Oracle.DataAccess.dll
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.27.2020\try to fix issue\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.27.2020\try to fix issue\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\obj\Debug\XMill2.vbprojAssemblyReference.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.27.2020\try to fix issue\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\obj\Debug\XMill2.XMill.resources
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.27.2020\try to fix issue\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\obj\Debug\XMill2.Resources.resources
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.27.2020\try to fix issue\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\obj\Debug\XMill2.vbproj.GenerateResource.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.27.2020\try to fix issue\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\obj\Debug\XMill2.vbproj.CoreCompileInputs.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.27.2020\try to fix issue\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\obj\Debug\XMill2.vbproj.CopyComplete
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.27.2020\try to fix issue\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\obj\Debug\XMill2.exe
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.27.2020\try to fix issue\XMill2 - Version11 -  Change Port to 1975 - Installed Oracle Client\XMill2\obj\Debug\XMill2.pdb
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.30.2020\XMill2 - Version12 - 20200729\XMill2\bin\Debug\conn_config.xml
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.30.2020\XMill2 - Version12 - 20200729\XMill2\bin\Debug\XMill2.exe.config
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.30.2020\XMill2 - Version12 - 20200729\XMill2\bin\Debug\XMill2.exe
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.30.2020\XMill2 - Version12 - 20200729\XMill2\bin\Debug\XMill2.pdb
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.30.2020\XMill2 - Version12 - 20200729\XMill2\bin\Debug\Oracle.DataAccess.dll
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.30.2020\XMill2 - Version12 - 20200729\XMill2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.30.2020\XMill2 - Version12 - 20200729\XMill2\obj\Debug\XMill2.vbprojAssemblyReference.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.30.2020\XMill2 - Version12 - 20200729\XMill2\obj\Debug\XMill2.XMill.resources
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.30.2020\XMill2 - Version12 - 20200729\XMill2\obj\Debug\XMill2.Resources.resources
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.30.2020\XMill2 - Version12 - 20200729\XMill2\obj\Debug\XMill2.vbproj.GenerateResource.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.30.2020\XMill2 - Version12 - 20200729\XMill2\obj\Debug\XMill2.vbproj.CoreCompileInputs.cache
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.30.2020\XMill2 - Version12 - 20200729\XMill2\obj\Debug\XMill2.vbproj.CopyComplete
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.30.2020\XMill2 - Version12 - 20200729\XMill2\obj\Debug\XMill2.exe
+C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.30.2020\XMill2 - Version12 - 20200729\XMill2\obj\Debug\XMill2.pdb

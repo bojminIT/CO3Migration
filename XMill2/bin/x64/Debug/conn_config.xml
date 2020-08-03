@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<connections>
+  <connection>
+    <environment>development</environment>
+    <host>itcleora01.ithq.local:1521/ITDEV02</host>
+    <username>DRAGON_API</username>
+    <password>DRAGON_API</password>
+  </connection>
+  <connection>
+    <environment>test</environment>
+    <host>itcleora01.ithq.local:1521/ITQA02</host>
+    <username>DRAGON_API</username>
+    <password>DRAGON_API</password>
+  </connection>
+  <connection>
+    <environment>acceptance</environment>
+    <host>itcleora01.ithq.local:1521/ITQA02</host>
+    <username>DRAGON_API</username>
+    <password>DRAGON_API</password>
+  </connection>
+  <connection>
+    <environment>production</environment>
+    <host>itcleora01.ithq.local:1521/ITQA02</host>
+    <username>DRAGON_API</username>
+    <password>DRAGON_API</password>
+  </connection>
+  <connection>
+		<environment>CAPDEV</environment>
+		<host>vmtook.capitolindemnity.com:1975/CAPDEV</host>
+		<username>CAP_API</username>
+		<password>ApiDev7#</password>
+  </connection>
+</connections>
