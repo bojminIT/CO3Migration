@@ -145,3 +145,17 @@ C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.30.202
 C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.30.2020\XMill2 - Version12 - 20200729\XMill2\obj\Debug\XMill2.vbproj.CopyComplete
 C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.30.2020\XMill2 - Version12 - 20200729\XMill2\obj\Debug\XMill2.exe
 C:\Users\jvucicevic.ITHQ\Desktop\JOVANA VUCICEVIC\CAP\CAP Project\July\07.30.2020\XMill2 - Version12 - 20200729\XMill2\obj\Debug\XMill2.pdb
+C:\PRIVATE\GIT\CO3Migration\XMill2\bin\Debug\conn_config.xml
+C:\PRIVATE\GIT\CO3Migration\XMill2\bin\Debug\XMill2.exe.config
+C:\PRIVATE\GIT\CO3Migration\XMill2\bin\Debug\XMill2.exe
+C:\PRIVATE\GIT\CO3Migration\XMill2\bin\Debug\XMill2.pdb
+C:\PRIVATE\GIT\CO3Migration\XMill2\bin\Debug\Oracle.DataAccess.dll
+C:\PRIVATE\GIT\CO3Migration\XMill2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\PRIVATE\GIT\CO3Migration\XMill2\obj\Debug\XMill2.vbprojAssemblyReference.cache
+C:\PRIVATE\GIT\CO3Migration\XMill2\obj\Debug\XMill2.XMill.resources
+C:\PRIVATE\GIT\CO3Migration\XMill2\obj\Debug\XMill2.Resources.resources
+C:\PRIVATE\GIT\CO3Migration\XMill2\obj\Debug\XMill2.vbproj.GenerateResource.cache
+C:\PRIVATE\GIT\CO3Migration\XMill2\obj\Debug\XMill2.vbproj.CoreCompileInputs.cache
+C:\PRIVATE\GIT\CO3Migration\XMill2\obj\Debug\XMill2.vbproj.CopyComplete
+C:\PRIVATE\GIT\CO3Migration\XMill2\obj\Debug\XMill2.exe
+C:\PRIVATE\GIT\CO3Migration\XMill2\obj\Debug\XMill2.pdb

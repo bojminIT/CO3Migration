@@ -124,9 +124,11 @@ Public Class XMill
     End Sub
 
     Private Sub bRun_Click(sender As Object, e As EventArgs) Handles bRun.Click
+        Dim load_table_name As String = My.Settings.storage_env & "." & My.Settings.table_name
 
         enableUIControls(False)
-        SaveUsingOracleBulkCopy("dragon_st.co3_t5", dt_preview) ' INFORCE
+
+        SaveUsingOracleBulkCopy(load_table_name, dt_preview) ' INFORCE
     End Sub
 
 
